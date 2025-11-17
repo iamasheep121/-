@@ -1,8 +1,14 @@
-gitignore
-
 # 编译输出
 build/
 *.elf
 *.bin
 *.hex
 *.map
+
+# 对象文件
+*.o
+*.d
+
+# IDE
+.vscode/
+.idea/
