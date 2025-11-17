@@ -1,0 +1,8 @@
+gitignore
+
+# 编译输出
+build/
+*.elf
+*.bin
+*.hex
+*.map
